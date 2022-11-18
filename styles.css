@@ -119,9 +119,10 @@ main header img:last-child{
 img{
 	border-radius: 50%;
 	position: absolute;
-	top:560px;
+	top:550px;
 	cursor: pointer;
-	width: 60px;
+	width: 80px;
+	
 }
 main header div{
 	margin-left:10px;
